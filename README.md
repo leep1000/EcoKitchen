@@ -1,19 +1,24 @@
-# Console-loggers-App
+# 👨‍🍳 EcoKitchen App
 
-DEVELOPMENT BRANCH ahia
-note by carrie & saynab
+## Demo
 
-test by carrie
+**_[Check it out here!](https://www.google.com "EcoKitchen")_**
 
+## Problem Statement
+In the UK, many households waste a significant portion of their food costs due to poor planning, lack of culinary ideas, and poor use of leftovers. There is no current solution that solves these problems simultaneously.
 
-# Problem Statement
+## Our Solution
+Introducing **_EcoKitchen_**, a user-friendly app that helps you keep track of what's in your kitchen, find recipes that use what you've got, remind you of food that's about to go off, and even plan your shopping list.
 
-“In the UK, many households waste a significant portion of their food costs due to poor planning, lack of culinary ideas, and poor use of leftovers. There is no current solution that solves these problems simultaneously.
+Here’s how it helps:
 
-<p>
-Our challenge is to make an easy-to-use app to helps users manage their food consumption, reduce waste and save money.”
+*  **Keep Tabs on Your Kitchen:** Easily add and see what food you have at home, with reminders for when things are going to expire.
 
-Welcome to our project! This document describes our Git branching strategy, which is designed to ensure that new features are properly tested before they are merged into the main branch.
+-  **Recipe Finder:** Get recipe ideas based on what you already have, so you can use up leftovers and avoid waste.
+
+-  **Shopping List:** Plan your shopping better with a list that suggests what to buy based on what you usually eat and what you're running out of.
+
+Developed by the team at console.loggers(), EcoKitcheb was  planned and executed over a sprint of 5 weeks. 
 
 # Git Branching Strategy
 
@@ -87,9 +92,3 @@ git merge development
 git push origin main
 
 7. Testing revert by carrie
-
-# develoment is a secondary main but breakable and won't effect main
- - Front end
-    - Page branches
-- back end
-    - page branches
