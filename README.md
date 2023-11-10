@@ -2,6 +2,8 @@
 
 ## Demo
 
+https://github.com/leep1000/EcoKitchen/assets/123783299/5d55a37e-cacd-4e8d-a7b6-eec3a4891828
+
 **_[Check it out here!](https://www.google.com "EcoKitchen")_**
 
 ## Problem Statement
@@ -19,6 +21,24 @@ Here’s how it helps:
 -  **Shopping List:** Plan your shopping better with a list that suggests what to buy based on what you usually eat and what you're running out of.
 
 Developed by the team at console.loggers(), EcoKitcheb was  planned and executed over a sprint of 5 weeks. 
+
+## Meet the Team
+
+Get to know the crew behind the project:
+
+## Our Team
+
+Get to know the crew behind the project:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/carrieshenkayee"><img src="https://github.com/carrieshenkayee.png" width="100" height="100" alt="Carrie"/><br /><sub><b>Carrie</b></sub></a></td>
+    <td align="center"><a href="https://github.com/usama-asghar1"><img src="https://github.com/usama-asghar1.png" width="100" height="100" alt="Usama"/><br /><sub><b>Usama</b></sub></a></td>
+    <td align="center"><a href="https://github.com/leep1000"><img src="https://github.com/leep1000.png" width="100" height="100" alt="Lee"/><br /><sub><b>Lee</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Theojeddy"><img src="https://github.com/Theojeddy.png" width="100" height="100" alt="Theo"/><br /><sub><b>Theo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sdiini001"><img src="https://github.com/sdiini001.png" width="100" height="100" alt="Saynab"/><br /><sub><b>Saynab</b></sub></a></td>
+  </tr>
+</table>
 
 # Git Branching Strategy
 
