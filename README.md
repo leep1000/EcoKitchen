@@ -26,10 +26,6 @@ Developed by the team at console.loggers(), EcoKitcheb was  planned and executed
 
 Get to know the crew behind the project:
 
-## Our Team
-
-Get to know the crew behind the project:
-
 <table>
   <tr>
     <td align="center"><a href="https://github.com/carrieshenkayee"><img src="https://github.com/carrieshenkayee.png" width="100" height="100" alt="Carrie"/><br /><sub><b>Carrie</b></sub></a></td>
